@@ -1,0 +1,129 @@
+body{
+    margin: 0;
+    font-family: Tahoma;
+}
+div{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+p{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 980px;
+    text-align: justify;
+    font-size: 18px;
+    line-height: 28px;
+}
+#intro{
+    background-color: #afddfb;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#logo{
+    width: 150px;
+}
+#intro p{
+    margin-top: 15px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+#intro a, #link{
+    font-size: 18px;
+    color: #1d1d1d;
+    border-bottom: 2px solid #1d1d1d;
+    text-decoration: none;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#imagenn{
+    margin-top: 50px;
+    padding-top: 0;
+}
+span{
+    font-weight: bold;
+}
+#sobre h1{
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+#sobre h2 {
+    color: #1c81c0;
+    font-weight: normal;
+    margin-top: 0
+}
+#sobre img, #corretores img{
+    width: 450px;    
+}
+.azul, #corretores h2{
+    color: #1d80c1;
+}
+.amarelo{
+    color: #fff81b;
+}
+#servico, #contato{
+    background-color: #1d80c1;
+}
+#servico h2, #contato h2 {
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+#servico p{
+    width: 700px;
+    color: #ffffff;
+    line-height: 42px;
+    font-size: 22px;
+    text-align: center;
+}
+#servico ul{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 135px;
+}
+#servico li{
+    text-align: left;
+    color: #ffffff;
+    font-size: 22px;
+    line-height: 42px;
+}
+#contato{
+    margin-bottom: 0px;
+}
+#contato p{
+    color: #ffffff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+#contato ul{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 210px;
+}
+#contato li{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+    background-color: #ffffff;
+    color: #1d80c1;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 5px;
+}
+#corretores h2{
+    font-size: 28px;
+    line-height: 42px;
+    color: #1c81c0;
+}
