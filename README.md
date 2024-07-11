@@ -4,7 +4,7 @@
 
 <h3>📁 Acesso ao projeto:</h3>
 
-<p>pode estar acessando o projeto por meio <a href="https://yguux.github.io/Projeto-Imobiliaria-Santos/>deste link</p>
+<p>pode estar acessando o projeto por meio <a href="https://yguux.github.io/Projeto-Imobiliaria-Santos"> deste link</p>
 
 <h3>Como Executar</h3>
 
